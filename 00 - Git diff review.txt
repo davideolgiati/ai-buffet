@@ -24,7 +24,9 @@ Main focuses for the edit were:
 <Correctness>
 <Maintainability>
 
-Can you give me your thoughts on the git diff provided? Is there something you suggest doing differently?
+Can you give me your thoughts on the git diff provided?
+Is there something you suggest doing differently?
+Feel free to provide codes / formulas / algorithms to improve upon the solution
 
 Only answer if you know the answer with certainty. If in doubt assume you're wrong.
 Think about your answer first before you respond.
