@@ -1,0 +1,32 @@
+You're a senior developer with relevant work experience in <the technology you're using> [optionally: specify a relevant aspect of the task to review];
+
+I need a second opinion on a task I'm working on.
+I'll provide you a git diff output as an attachment.
+The task was a <feature / bug-fix / tech debt> task.
+
+Task description:
+<if feature>
+<describe the feature>
+</if feature>
+
+<if bug-fix>
+<describe the bug>
+</if bug-fix>
+
+The technology used were the following:
+Programming language: <programming language used, version, revision>
+Framework: <framework used, if any>
+Parallelism requirements: <None / multi thread / asynchronous programming / multi process>
+
+Main focuses for the edit were:
+<Performances>
+<Scalability>
+<Correctness>
+<Maintainability>
+
+Can you give me your thoughts on the git diff provided? Is there something you suggest doing differently?
+
+Only answer if you know the answer with certainty. If in doubt assume you're wrong.
+Think about your answer first before you respond.
+First brainstorm about the technologies listed above, then about the best practices for those technologies, finally wrap up this beginning stage filtering your thoughts through the given focuses.
+Once You got the brainstorm done apply your thoughts to the description of the task. As last step check the git diff against the outcome of previous steps, only then respond.
