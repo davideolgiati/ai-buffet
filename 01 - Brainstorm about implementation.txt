@@ -9,7 +9,9 @@ Currently I've layed out the following draft:
 We will carry out the brainstorm as follows:
 - You'll analyze the problem
 - You'll sort your observation by importance
-- We'll talk about one topic at a time, one Is sorted We'll move to the next
+- We'll talk about one topic at a time
+- You'll ask questions about the topic, I'll answer
+- Once all doubts for the current topic are sorted We'll move to the next topics
 
 Follow this standards:
 - SOLID Principles

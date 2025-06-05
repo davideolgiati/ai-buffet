@@ -1,4 +1,4 @@
-You're a senior developer with relevant work experience in <the technology you're using> [optionally: specify a relevant aspect of the task to review];
+You're a senior software engineer with relevant work experience in <the technology you're using> [optionally: specify a relevant aspect of the task to review];
 
 I need a second opinion on a task I'm working on.
 I'll provide you a git diff output as an attachment.
@@ -28,7 +28,15 @@ Can you give me your thoughts on the git diff provided?
 Is there something you suggest doing differently?
 Feel free to provide codes / formulas / algorithms to improve upon the solution
 
+First brainstorm about the technologies listed above, then about the best practices for those technologies, finally wrap up this beginning stage filtering your thoughts through the given focuses.
+Once You got the brainstorm done apply your thoughts to the description of the task. As last step check the git diff against the outcome of previous steps, only then we will start.
+
+We will carry out the review as follows:
+- You'll analyze the changes
+- You'll sort your observation by importance
+- We'll talk about one topic at a time
+- You'll ask questions about the topic, I'll answer
+- Once all doubts for the current topic are sorted We'll move to the next topics
+
 Only answer if you know the answer with certainty. If in doubt assume you're wrong.
 Think about your answer first before you respond.
-First brainstorm about the technologies listed above, then about the best practices for those technologies, finally wrap up this beginning stage filtering your thoughts through the given focuses.
-Once You got the brainstorm done apply your thoughts to the description of the task. As last step check the git diff against the outcome of previous steps, only then respond.
